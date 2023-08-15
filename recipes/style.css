@@ -1,1 +1,15 @@
 /* style.css */
+
+body {
+    background-color: lightslategray;
+}
+
+.title {
+    font-family: Arial, 'Times New Roman', sans-serif;
+    font-size: 30px;
+}
+
+
+li {
+    list-style-type: none;
+}
