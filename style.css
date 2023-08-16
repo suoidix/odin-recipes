@@ -1,15 +1,36 @@
 /* style.css */
 
 body {
-    background-color: lightslategray;
+    background-color: rgb(41, 41, 41);
+    width: 500px;
+    margin: 0 auto;
+}
+
+div {
+    background-color: rgb(69, 105, 58);
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    color:rgb(0, 0, 0)
 }
 
 .title {
     font-family: Arial, 'Times New Roman', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
 }
 
+.recipes {
+    font-size: 20px;
+    box-sizing: border-box;
+    height: 70px;
+    width:auto;
+}
 
 li {
     list-style-type: none;
+}
+
+.links {
+    text-align: left;
 }
